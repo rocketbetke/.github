@@ -21,6 +21,6 @@ Rocketbet is a cutting-edge online gaming platform where excitement takes flight
 
 ## Contact Us 📧
 
-Have any questions or suggestions? Feel free to reach out to our team at [support@rocketbet.com](mailto:support@jetbet.com). We love hearing from our users!
+Have any questions or suggestions? Feel free to reach out to our team at [support@jetbet.com](mailto:support@jetbet.com). We love hearing from our users!
 
 Join us on this incredible gaming journey and let's soar together with Jetbet! 🌟
