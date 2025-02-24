@@ -1,10 +1,10 @@
-# Welcome to Rocketbet! 🚀🎲
+# Welcome to Jetbet! 🚀🎲
 
-At Rocketbet, we're passionate about gaming and entertainment. Our mission is to provide an exhilarating, safe, and fair gaming experience for all our users.
+At Jetbet, we're passionate about gaming and entertainment. Our mission is to provide an exhilarating, safe, and fair gaming experience for all our users.
 
 ## About Us ℹ️
 
-Rocketbet is a cutting-edge online gaming platform where excitement takes flight. With a diverse range of games and betting options, we cater to every gaming enthusiast's taste. From classic casino games to thrilling sports betting, we've got something for everyone.
+Rocketbet is a cutting-edge online gaming platform where excitement takes flight. We cater to every gaming enthusiast's taste with a diverse range of games and betting options. From classic casino games to thrilling sports betting, we've got something for everyone.
 
 ## Features ✨
 
@@ -21,6 +21,6 @@ Rocketbet is a cutting-edge online gaming platform where excitement takes flight
 
 ## Contact Us 📧
 
-Have any questions or suggestions? Feel free to reach out to our team at [support@rocketbet.com](mailto:support@rocketbet.com). We love hearing from our users!
+Have any questions or suggestions? Feel free to reach out to our team at [support@rocketbet.com](mailto:support@jetbet.com). We love hearing from our users!
 
-Join us on this incredible gaming journey and let's soar together with Rocketbet! 🌟
+Join us on this incredible gaming journey and let's soar together with Jetbet! 🌟
